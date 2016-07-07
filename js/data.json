@@ -1,0 +1,76 @@
+{
+    "firmdata": [
+        {
+            "id": 1,
+            "url": "http://www.linklaws.com",
+            "name": "深圳领络科技有限公司",
+            "city": "深圳",
+            "tel": "0755-82810033",
+            "address": "深圳市福田区梅华路105号国际电子商务产业园1栋429",
+            "logo": "image/alliance/lingluo.jpg"
+        },
+        {
+            "id": 2,
+            "url": "http://www.yandao.cc",
+            "name": "广东俨道律师事务所",
+            "city": "深圳",
+            "tel": "0755-82775533",
+            "address": "深圳市福田区梅华路105号国际电子商务产业园科技楼303",
+            "logo": "image/alliance/yandao.jpg"
+        },
+        {
+            "id": 3,
+            "url": "http://www.samzt.com",
+            "name": "北京中投律师事务所",
+            "city": "北京",
+            "tel": "85215555",
+            "address": "北京市东城区东长安街1号东方广场E1座704A",
+            "logo": "image/alliance/zhongtou.jpg"
+        },
+        {
+            "id": 4,
+            "url": "http://www.sqxb.com",
+            "name": "北京市尚权律师事务所",
+            "city": "北京",
+            "tel": "010-87512006",
+            "address": "北京市东城区广渠家园名敦道大厦2号楼1507室",
+            "logo": "image/alliance/shangquan.jpg"
+        },
+        {
+            "id": 5,
+            "url": "http://www.whdena.com",
+            "name": "广东德纳(武汉)律师事务所",
+            "city": "武汉",
+            "tel": "027-87573888",
+            "address": "武汉市武昌区和平大道750号-绿地国际金融城绿地蓝海A座8楼805-810",
+            "logo": "image/alliance/dena.jpg"
+        },
+        {
+            "id": 6,
+            "url": "http://www.yonghe.com",
+            "name": "重庆永和律师事务所",
+            "city": "重庆",
+            "tel": "023-62611700",
+            "address": "重庆南岸区亚太商谷7幢14-2",
+            "logo": "image/alliance/yonghe.jpg"
+        },
+        {
+            "id": 7,
+            "url": "http://www.qhzflaw.com",
+            "name": "青海智凡律师事务所",
+            "city": "西宁",
+            "tel": "0971-6305803",
+            "address": "青海省西宁市城西区黄河路14号玉珠花园1283室",
+            "logo": "image/alliance/zhifan.jpg"
+        },
+        {
+            "id": 8,
+            "url": "http://www.lizhang.lawyer",
+            "name": "上海理彰律师事务所",
+            "city": "上海",
+            "tel": "021-65108312",
+            "address": "上海市杨浦区大学路261号302",
+            "logo": "image/alliance/pengzhang.jpg"
+        }
+    ]
+}
